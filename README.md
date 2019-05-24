@@ -1,4 +1,4 @@
 # php-design-pattern
 
-INSTALLATION
-Composer install
+INSTALLATION :
+> composer install
